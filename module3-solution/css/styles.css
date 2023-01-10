@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+.food-item{
+	border-bottom: 1px solid #000;
+	text-align: center;
+	padding:8px;
+}
+#chicken-item{
+	border-top: 1px solid #000;
+}
+.navbar-brand{
+	font-weight: bold;
+}
+.container{
+	margin:2em auto;
+	border:1px solid #000;
+	background-color: #f8f8f8;
+	width:80%;
+}
